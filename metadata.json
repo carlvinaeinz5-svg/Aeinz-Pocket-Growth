@@ -1,0 +1,6 @@
+{
+  "name": "Aeinz Pocket Growth",
+  "description": "Savings & online transactions with Aeinz Transact Card, low-fee accounts, and automated goal tracking for low/moderate earners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
